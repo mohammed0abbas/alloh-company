@@ -1,0 +1,40 @@
+
+@import url("http://www.fontstatic.com/f=cocon-next-arabic");
+
+*{
+    font-family: 'cocon-next-arabic';
+    
+}
+
+
+    
+.p-l{
+    border-left: #3E5A7F solid;
+    border-bottom:#3E5A7F solid ;
+}
+
+.p-r{
+    border-right: #3E5A7F solid;
+    border-bottom:#3E5A7F solid ;
+}
+
+.menu{
+    font-style: normal;
+}
+.color-r{
+    background-color: #3e5a7fe8;
+}
+
+.rate h5{
+    font-weight:700;
+    
+}
+
+.section-about{
+    font-size: 130%;
+}
+
+.max-0{
+    max-width: 0;
+}
+
